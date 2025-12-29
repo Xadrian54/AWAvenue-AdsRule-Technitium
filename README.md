@@ -1,5 +1,5 @@
 <div align="left">
-<a href="/assets/README_en-US.md">English</a> &nbsp;|&nbsp; Is only a Fork to add Technitium-blocklist that have been forgotten.
+<a href="/assets/README_en-US.md">English</a> &nbsp;|&nbsp; It's just a fork to add Technitium-blocklist, which was forgotten.
 </div>
 
 <h1 align="center">-AWAvenue-</h1>
@@ -19,7 +19,23 @@
     <img src="https://img.shields.io/badge/%E8%B5%9E%E5%8A%A9%E6%88%91-ffd700?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=ff9800" alt="赞助我"/>
   </a>
 </p>
-
 <p align="center"><b><br>Eliminate All Malicious Ads</b></p>
+
+You can do it yourself by downloading the AWAvenue-Ads-Rule-WIldcard-Technitium.list from here [AWAvenue-Filters](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/main/Filters)
+Visual Studio (2026):
+Open file
+Ctrl + H
+Search mode “Regular expression” symbol -> .* or Alt + E to enable.
+Search: ^\.
+Replace all with: *.
+And done!
+
+JetBrains-Produkte (WebStorm, PyCharm, IntelliJ IDEA):
+Open file
+Ctrl + R
+Search mode “Regular expression” icon -> .* to enable.
+Search: ^\.
+Replace all with: *.
+Done! Only the first point should be replaced like this: .a0.app.xiaomi.com -> *.a0.app.xiaomi.com
 
 > [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)
