@@ -21,6 +21,12 @@
 </p>
 <p align="center"><b><br>Eliminate All Malicious Ads</b></p>
 
+### Direct link to install
+
+```text
+https://raw.githubusercontent.com/Xadrian54/AWAvenue-AdsRule-Technitium/main/Filters/AWAvenue-Ads-Rule-Technitium.txt
+```
+
 You can do it yourself by downloading the **AWAvenue-Ads-Rule-Surge.list**
 (for wildcard usage) from here:
 
