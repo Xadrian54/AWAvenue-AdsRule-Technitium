@@ -21,7 +21,7 @@
 </p>
 <p align="center"><b><br>Eliminate All Malicious Ads</b></p>
 
-You can do it yourself by downloading the AWAvenue-Ads-Rule-WIldcard-Technitium.list from here [AWAvenue-Filters](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/main/Filters)
+You can do it yourself by downloading the AWAvenue-Ads-Rule-Wildcard-Surge.list from here [AWAvenue-Filters](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/main/Filters)
 Visual Studio (2026):
 Open file
 Ctrl + H
