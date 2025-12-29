@@ -21,21 +21,39 @@
 </p>
 <p align="center"><b><br>Eliminate All Malicious Ads</b></p>
 
-You can do it yourself by downloading the AWAvenue-Ads-Rule-Surge.list (for wildcard) from here [AWAvenue-Filters](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/main/Filters)
-Visual Studio (2026):
-Open file
-Ctrl + H
-Search mode “Regular expression” symbol -> .* or Alt + E to enable.
+You can do it yourself by downloading the **AWAvenue-Ads-Rule-Surge.list**
+(for wildcard usage) from here:
+
+👉 [AWAvenue Filters](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/main/Filters)
+
+---
+
+## Visual Studio (2026)
+
+1. Open file
+2. Press `Ctrl + H`
+3. Enable **Regular Expression** mode (`.*` icon or `Alt + E`)
+4. Use the following values:
+
+```text
 Search: ^\.
-Replace all with: *.
-And done!
+Replace: *.
+```
+5. Click Replace All
+
+---
 
 JetBrains-Produkte (WebStorm, PyCharm, IntelliJ IDEA):
-Open file
-Ctrl + R
-Search mode “Regular expression” icon -> .* to enable.
+1. Open file
+2. Press Ctrl + R
+3. Search mode “Regular expression” icon .* to enable.
+4. Use the following ones:
+   
+```text
 Search: ^\.
 Replace all with: *.
-Done! Only the first point should be replaced like this: .a0.app.xiaomi.com -> *.a0.app.xiaomi.com
+```
+Done! 
+5. Check it's right this: Only the first point should be replaced like: .a0.app.xiaomi.com -> *.a0.app.xiaomi.com
 
 > [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)
