@@ -35,6 +35,7 @@ You can do it yourself by downloading the **AWAvenue-Ads-Rule-Surge.list**
 ---
 
 ## Visual Studio (2026)
+### Note: Domains listed without wildcards (*.), as Technitium matches subdomains automatically.
 
 1. Open file
 2. Press `Ctrl + H`
@@ -43,7 +44,7 @@ You can do it yourself by downloading the **AWAvenue-Ads-Rule-Surge.list**
 
 ```text
 Search: ^\.
-Replace: *.
+Replace with nothing 
 ```
 5. Click Replace All
 
@@ -54,10 +55,10 @@ JetBrains-Produkte (WebStorm, PyCharm, IntelliJ IDEA):
 2. Press Ctrl + R
 3. Search mode “Regular expression” icon .* to enable.
 4. Use the following ones:
-   
+
 ```text
 Search: ^\.
-Replace all with: *.
+Replace with nothing
 ```
 Done! 
 5. Check it's right this: Only the first point should be replaced like: .a0.app.xiaomi.com -> *.a0.app.xiaomi.com
