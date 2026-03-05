@@ -1,10 +1,21 @@
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 #Title: Merged version of AWAvenue Ads Rule
-#Total lines: 955
-#Update content: SmartDNS & m1.ad.10010.com
-#Update time: 2026-02-01 18:03 UTC+1
-#Version: 1.6.9-enhancement
+#Total lines: 964
+#Update content: mostly microsoft Insider trackings
+#Update time: 2026-03-05
+#Version: 1.7.0-enhanced
+# Insider microsoft entries incl.
+fd.api.iris.microsoft.com
+events.data.microsoft.com
+settings-win.data.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+prod.do.dsp.mp.microsoft.com
+client.wns.windows.com
+insideruser.microsoft.com
+go.microsoft.com
+ftpm.amd.com
+
 1500020991.vodplayer.wxamedia.com
 1500022744.vodplayer.wxamedia.com
 1500026601.vodplayer.wxamedia.com
@@ -960,3 +971,5 @@ zhangyuyidong.cn
 zhihu-web-analytics.zhihu.com
 zjres-ad.kajicam.com
 zxid-m.mobileservice.cn
+fd.api.iris.microsoft.com
+v20.events.data.microsoft.com
